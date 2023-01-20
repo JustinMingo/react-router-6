@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+DONT FORGET TO START CONDA ACTIVATE 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
